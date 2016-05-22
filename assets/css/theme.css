@@ -39,7 +39,7 @@ img {
 ::selection {
 	color: #fff;
 	text-shadow: none;
-	background: #f7465b;
+	background: #ACCEF7;
 }
 ::-moz-selection {
 	color: #fff;
@@ -4907,7 +4907,7 @@ ul.social-icons > li + li {
 	padding-top: 90px;
 }
 #footer .copyright {
-	color: #A4AAAD;
+	color: #545A5F;
 }
 
 
