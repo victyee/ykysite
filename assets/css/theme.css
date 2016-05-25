@@ -351,6 +351,7 @@ body.boxed #header.header-fluid .container {
 	box-shadow:  0 2px 0 rgba(0, 0, 0, 0.07);
 }
 #header.header-dark.transparent.header-filled {
+	background-color: rgba(255,255,255, 0.9);
 	/*background-color: #070F13;*/
 }
 #header.header-color.transparent.header-filled {
